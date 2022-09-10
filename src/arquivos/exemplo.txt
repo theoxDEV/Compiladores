@@ -1,0 +1,13 @@
+inicio
+	inteiro a
+	inteiro b
+	inteiro c
+	leia
+	c = a+b
+	se a > b entao
+		escreva a
+	senao 
+		escreva b
+	
+
+fim

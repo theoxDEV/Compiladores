@@ -1,0 +1,13 @@
+inicio
+inteiro
+leia
+escreva
+se
+entao
+senao
+fimse
+conte
+ate
+em
+fimconte
+fim
